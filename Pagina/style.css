@@ -1,0 +1,30 @@
+h1{
+color: rgb(184, 20, 20);;
+width: 10%;
+border-radius: 30px;
+border-style: dashed;
+text-align: center;
+}
+header{
+    display: flex;
+    justify-content: space-between ;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.slogan{
+    width: 30%;
+    background-color: paleturquoise;
+}
+
+nav{
+    width: 60%;
+    background-color: papayawhip;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/564x/ba/4f/d9/ba4fd91794c507caf544aabaf936d503.jpg");
+}
